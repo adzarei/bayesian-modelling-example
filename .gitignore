@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # installation of libraries from source
-sources/
+/sources/
