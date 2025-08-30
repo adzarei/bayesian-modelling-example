@@ -12,6 +12,7 @@ dependencies = [
     "tensorflow-probability[tf] (>=0.25.0,<0.26.0)",
     "matplotlib (>=3.10.5,<4.0.0)",
     "seaborn (>=0.13.2,<0.14.0)",
+    "pandas (>=2.3.2,<3.0.0)",
 ]
 
 
